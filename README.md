@@ -3,7 +3,10 @@
 
 To test this project run the batch file which tests 3 cases:
 
-Normal case with sample file.
-Non valid case (no arxml extension).
-An empty arxml file.
+1-Normal case with sample file.
+
+2-Non valid case (no arxml extension).
+
+3-An empty arxml file.
+
 The Output of the batch file should run normally for the first case and create a new file named "sampleTest_mod.arxml" For both the second and third cases it should fail and throw an exception in the terminal.
